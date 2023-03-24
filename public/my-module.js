@@ -4,5 +4,5 @@ const statement = () => `${theShire.name} was founded ${buckland.founding - theS
 
 export {
     theShire,
-    statement
-}
+    statement,
+};
