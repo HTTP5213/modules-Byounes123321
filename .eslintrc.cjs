@@ -17,5 +17,5 @@ module.exports = {
     "no-unused-vars": 0,
     "eol-last": 0,
     "linebreak-style": 0
-  },
+  }
 };
